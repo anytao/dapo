@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Azur.Dapo.Core", "Azur.Dapo.Core\Azur.Dapo.Core.csproj", "{92EFD00D-6532-4C9A-8500-9637368E3DF9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "_build", "_build", "{1A74226A-4C70-4EDE-A4F3-AB3316CB1600}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Azur.Dapo.MQ", "Azur.Dapo.MQ\Azur.Dapo.MQ.csproj", "{631ABD79-FDB2-47EE-ABAE-F46302F517E1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "_example", "_example", "{43A70BF2-29AB-4451-9C8A-ECE725759D5A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "_install", "_install", "{4287E789-B372-4118-A336-E6F8C6956740}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "_test", "_test", "{3E73E657-C7E4-46D2-9908-3F74A1848C80}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "_doc", "_doc", "{D37B9D15-21A9-416C-ABA5-3ABCA14F2051}"
+	ProjectSection(SolutionItems) = preProject
+		_doc\CONTRIBUTORS.txt = _doc\CONTRIBUTORS.txt
+		_doc\LICENSE.txt = _doc\LICENSE.txt
+		_doc\README.txt = _doc\README.txt
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Common", "Common", "{6FE12705-E1C8-4DE5-AFA4-97B90EDE254C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Azur.Dapo.Client", "Azur.Dapo.Client\Azur.Dapo.Client.csproj", "{63A4E5FF-E1E5-44DE-8CDE-5BDA69F90C4E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92EFD00D-6532-4C9A-8500-9637368E3DF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92EFD00D-6532-4C9A-8500-9637368E3DF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92EFD00D-6532-4C9A-8500-9637368E3DF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92EFD00D-6532-4C9A-8500-9637368E3DF9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{631ABD79-FDB2-47EE-ABAE-F46302F517E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{631ABD79-FDB2-47EE-ABAE-F46302F517E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{631ABD79-FDB2-47EE-ABAE-F46302F517E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{631ABD79-FDB2-47EE-ABAE-F46302F517E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63A4E5FF-E1E5-44DE-8CDE-5BDA69F90C4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63A4E5FF-E1E5-44DE-8CDE-5BDA69F90C4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63A4E5FF-E1E5-44DE-8CDE-5BDA69F90C4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63A4E5FF-E1E5-44DE-8CDE-5BDA69F90C4E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,10 @@
+E:\iAnytao\03 Dev\02 Project\ATen\dev\ATWorks\_labs\Dapo\Azur.Dapo.MQ\obj\Debug\ResolveAssemblyReference.cache
+E:\iAnytao\03 Dev\02 Project\ATen\dev\ATWorks\_labs\Dapo\Azur.Dapo.MQ\bin\Debug\Azur.Dapo.MQ.dll
+E:\iAnytao\03 Dev\02 Project\ATen\dev\ATWorks\_labs\Dapo\Azur.Dapo.MQ\bin\Debug\Azur.Dapo.MQ.pdb
+E:\iAnytao\03 Dev\02 Project\ATen\dev\ATWorks\_labs\Dapo\Azur.Dapo.MQ\bin\Debug\Azur.Dapo.Core.dll
+E:\iAnytao\03 Dev\02 Project\ATen\dev\ATWorks\_labs\Dapo\Azur.Dapo.MQ\bin\Debug\Enyim.Caching.dll
+E:\iAnytao\03 Dev\02 Project\ATen\dev\ATWorks\_labs\Dapo\Azur.Dapo.MQ\bin\Debug\NLog.dll
+E:\iAnytao\03 Dev\02 Project\ATen\dev\ATWorks\_labs\Dapo\Azur.Dapo.MQ\bin\Debug\Azur.Dapo.Core.pdb
+E:\iAnytao\03 Dev\02 Project\ATen\dev\ATWorks\_labs\Dapo\Azur.Dapo.MQ\bin\Debug\NLog.xml
+E:\iAnytao\03 Dev\02 Project\ATen\dev\ATWorks\_labs\Dapo\Azur.Dapo.MQ\obj\Debug\Azur.Dapo.MQ.dll
+E:\iAnytao\03 Dev\02 Project\ATen\dev\ATWorks\_labs\Dapo\Azur.Dapo.MQ\obj\Debug\Azur.Dapo.MQ.pdb

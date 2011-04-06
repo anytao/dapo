@@ -1,0 +1,5 @@
+E:\iAnytao\03 Dev\02 Project\ATen\dev\ATWorks\_labs\Dapo\Azur.Dapo.Core\bin\Debug\Azur.Dapo.Core.dll
+E:\iAnytao\03 Dev\02 Project\ATen\dev\ATWorks\_labs\Dapo\Azur.Dapo.Core\bin\Debug\Azur.Dapo.Core.pdb
+E:\iAnytao\03 Dev\02 Project\ATen\dev\ATWorks\_labs\Dapo\Azur.Dapo.Core\obj\Debug\ResolveAssemblyReference.cache
+E:\iAnytao\03 Dev\02 Project\ATen\dev\ATWorks\_labs\Dapo\Azur.Dapo.Core\obj\Debug\Azur.Dapo.Core.dll
+E:\iAnytao\03 Dev\02 Project\ATen\dev\ATWorks\_labs\Dapo\Azur.Dapo.Core\obj\Debug\Azur.Dapo.Core.pdb
